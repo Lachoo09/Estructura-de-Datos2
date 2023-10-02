@@ -2,7 +2,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>0898ca71-95a3-4fe5-b98f-ec0a996963be</ProjectGuid>
+    <ProjectGuid>74564aec-4ffa-4d4d-963f-0efcb6e49ecc</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <StartupFile>Practica_02___Sumatoria_de_8_digitos_enteros.py</StartupFile>
     <SearchPath>
