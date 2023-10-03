@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Practica 04 Arrelgos Multidimensionales", "Practica 04 Arrelgos Multidimensionales\Practica 04 Arrelgos Multidimensionales.pyproj", "{955AA57E-A3A4-4329-92DC-5342C2ED94AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{955AA57E-A3A4-4329-92DC-5342C2ED94AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955AA57E-A3A4-4329-92DC-5342C2ED94AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38CDEF24-1A0B-4267-AED9-B47EF91F6D29}
+	EndGlobalSection
+EndGlobal
