@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Practica 04 - Vectores PYTHON", "Practica 04 - Vectores PYTHON\Practica 04 - Vectores PYTHON.pyproj", "{2D302B18-F121-470A-960B-AE4F9E461A2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D302B18-F121-470A-960B-AE4F9E461A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D302B18-F121-470A-960B-AE4F9E461A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55D2E013-1450-4D28-97C4-4CC439453234}
+	EndGlobalSection
+EndGlobal
