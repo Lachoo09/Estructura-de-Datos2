@@ -1,0 +1,14 @@
+F:\GitHub\Estructura-De-Datos2\Practica 10 - Suma Recursiva e Iterativa C#\Practica 10 - Suma Recursiva e Iterativa C#\bin\Debug\net6.0\Practica 10 - Suma Recursiva e Iterativa C#.exe
+F:\GitHub\Estructura-De-Datos2\Practica 10 - Suma Recursiva e Iterativa C#\Practica 10 - Suma Recursiva e Iterativa C#\bin\Debug\net6.0\Practica 10 - Suma Recursiva e Iterativa C#.deps.json
+F:\GitHub\Estructura-De-Datos2\Practica 10 - Suma Recursiva e Iterativa C#\Practica 10 - Suma Recursiva e Iterativa C#\bin\Debug\net6.0\Practica 10 - Suma Recursiva e Iterativa C#.runtimeconfig.json
+F:\GitHub\Estructura-De-Datos2\Practica 10 - Suma Recursiva e Iterativa C#\Practica 10 - Suma Recursiva e Iterativa C#\bin\Debug\net6.0\Practica 10 - Suma Recursiva e Iterativa C#.dll
+F:\GitHub\Estructura-De-Datos2\Practica 10 - Suma Recursiva e Iterativa C#\Practica 10 - Suma Recursiva e Iterativa C#\bin\Debug\net6.0\Practica 10 - Suma Recursiva e Iterativa C#.pdb
+F:\GitHub\Estructura-De-Datos2\Practica 10 - Suma Recursiva e Iterativa C#\Practica 10 - Suma Recursiva e Iterativa C#\obj\Debug\net6.0\Practica 10 - Suma Recursiva e Iterativa C#.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Estructura-De-Datos2\Practica 10 - Suma Recursiva e Iterativa C#\Practica 10 - Suma Recursiva e Iterativa C#\obj\Debug\net6.0\Practica 10 - Suma Recursiva e Iterativa C#.AssemblyInfoInputs.cache
+F:\GitHub\Estructura-De-Datos2\Practica 10 - Suma Recursiva e Iterativa C#\Practica 10 - Suma Recursiva e Iterativa C#\obj\Debug\net6.0\Practica 10 - Suma Recursiva e Iterativa C#.AssemblyInfo.cs
+F:\GitHub\Estructura-De-Datos2\Practica 10 - Suma Recursiva e Iterativa C#\Practica 10 - Suma Recursiva e Iterativa C#\obj\Debug\net6.0\Practica 10 - Suma Recursiva e Iterativa C#.csproj.CoreCompileInputs.cache
+F:\GitHub\Estructura-De-Datos2\Practica 10 - Suma Recursiva e Iterativa C#\Practica 10 - Suma Recursiva e Iterativa C#\obj\Debug\net6.0\Practica 10 - Suma Recursiva e Iterativa C#.dll
+F:\GitHub\Estructura-De-Datos2\Practica 10 - Suma Recursiva e Iterativa C#\Practica 10 - Suma Recursiva e Iterativa C#\obj\Debug\net6.0\refint\Practica 10 - Suma Recursiva e Iterativa C#.dll
+F:\GitHub\Estructura-De-Datos2\Practica 10 - Suma Recursiva e Iterativa C#\Practica 10 - Suma Recursiva e Iterativa C#\obj\Debug\net6.0\Practica 10 - Suma Recursiva e Iterativa C#.pdb
+F:\GitHub\Estructura-De-Datos2\Practica 10 - Suma Recursiva e Iterativa C#\Practica 10 - Suma Recursiva e Iterativa C#\obj\Debug\net6.0\Practica 10 - Suma Recursiva e Iterativa C#.genruntimeconfig.cache
+F:\GitHub\Estructura-De-Datos2\Practica 10 - Suma Recursiva e Iterativa C#\Practica 10 - Suma Recursiva e Iterativa C#\obj\Debug\net6.0\ref\Practica 10 - Suma Recursiva e Iterativa C#.dll
